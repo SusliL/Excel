@@ -57,12 +57,3 @@
 3.In cell M3, typed =VLOOKUP(L3, C2:I113, 7, FALSE) 
 4.FILL HANDLED from M2 down to M9 
 5.Result: Gave me Amount in USD for all Selected Start Up Names 
-
-
-
-
-
-
-
-
-
