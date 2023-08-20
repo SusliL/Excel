@@ -52,8 +52,8 @@
 3. Result: Number of Visa Credit Card Types
 
 /*Using VLOOKUP to look up date in a table organized vertically*/
-1.In cell K2,L2,M2, typed VLOOKUP, Startup Name, Amount in USD
-2.Selected and copied cells from C9:C15 and pasted in cell L3.
-3.In cell M3, typed =VLOOKUP(L3, C2:I113, 7, FALSE) 
-4.FILL HANDLED from M2 down to M9 
-5.Result: Gave me Amount in USD for all Selected Start Up Names 
+1. In cell K2,L2,M2, typed VLOOKUP, Startup Name, Amount in USD
+2. Selected and copied cells from C9:C15 and pasted in cell L3.
+3. In cell M3, typed =VLOOKUP(L3, C2:I113, 7, FALSE) 
+4. FILL HANDLED from M2 down to M9 
+5. Result: Gave me Amount in USD for all Selected Start Up Names 
